@@ -2,6 +2,9 @@
 
 Simulação do sistema de irrigação automatizado da FarmTech Solutions, utilizando o ESP32 no Wokwi e integração opcional com o TOKEN meteorológico gerado pelo módulo Python (python_integration).
 
+<img width="714" height="389" alt="image" src="https://github.com/user-attachments/assets/8721d623-1e0f-458d-96c0-01a4d5ba4b35" />
+
+
 ## 📁 Estrutura da pasta
 esp32_app/
 ├─ progInC.ino        # código-fonte principal (C++)
