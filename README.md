@@ -1,10 +1,32 @@
-🌾 FIAP CAP 1 – FarmTech Solutions
+# FIAP - Faculdade de Informática e Administração Paulista
 
-  Projeto acadêmico desenvolvido no curso de Inteligência Artificial (FIAP), com foco em soluções para Agricultura Digital.
-  O grupo FarmTech Solutions propõe o desenvolvimento de sistemas inteligentes para monitoramento, automação e análise de dados agrícolas, integrando Python, R e IoT (ESP32).
+<p align="center">
+<a href= "https://www.fiap.com.br/"><img src="assets/logo-fiap.png" alt="FIAP - Faculdade de Informática e Admnistração Paulista" border="0" width=40% height=40%></a>
+</p>
 
-___________________________________________________________________________
-🗂 ESTRUTURA GERAL
+<br>
+
+# PROJETO FARMTECH SOLUTIONS
+
+## 👥 Integrantes: 
+- <a href="https://github.com/Emarinhos">Everton</a>
+- <a href="https://github.com/Juliagutierres29">Julia</a>
+- <a href="https://github.com/rm567718">Nayara</a> 
+- <a href="https://github.com/vuXavier">Xavier</a> 
+- <a href="https://github.com/Martelletti27">Matheus</a>
+
+## 👩‍🏫 Professores:
+### Tutor(a) 
+- <a href="https://www.linkedin.com/in/sabrina-otoni-22525519b/">Sabrina Otoni</a>
+### Coordenador(a)
+- <a href="https://www.linkedin.com/company/inova-fusca">Andre Godoy, PhD</a>
+
+## 📜 Descrição:
+
+Projeto acadêmico desenvolvido no curso de Inteligência Artificial (FIAP), com foco em soluções para Agricultura Digital.
+O grupo FarmTech Solutions propõe o desenvolvimento de sistemas inteligentes para monitoramento, automação e análise de dados agrícolas, integrando Python, R e IoT (ESP32).
+
+## 🗂 ESTRUTURA GERAL
 
     fiap-cap1-farmtech/
     │
@@ -27,7 +49,8 @@ ___________________________________________________________________________
     │   
     └─ README.md                            # Este arquivo
 
-___________________________________________________________________________
+## 🔧 Como executar o código
+
 📘 FASE 1 - MANEJO E CALCULO DE INSUMOS
 
 Nesta primeira fase, foi desenvolvido um sistema em Python e R para o planejamento de manejo agrícola, permitindo o cálculo de áreas, doses de produtos e análise de tratamentos.
@@ -87,28 +110,11 @@ O ESP32 avalia continuamente as leituras dos sensores e o token meteorológico.
     
     apps/esp32_irrigacao_inteligente/esp32_app/README.md
 
-
-___________________________________________________________________________
-🚀 Próximos passos
-
-     Ir além – Análise em R (opcional 2):
-     
-     Finalizar vídeo de demonstração (≤ 5 min)
-
-     Submeter documentação no portal FIAP
-
-     
-___________________________________________________________________________   
-👥 Equipe FarmTech Solutions
-
-    Everton
-    Xavier	           
-    Nayara	            
-    Julia
-    Matheus
+## 🗃 Histórico de lançamentos
+* 0.1.0 - 15/09/2025
+* 0.2.0 - 15/10/2025
 
 ___________________________________________________________________________
 🧾 Licença
 
-    Projeto acadêmico, de uso educacional, desenvolvido no âmbito da disciplina
-    CAP 1 – Campo da Inovação (FIAP).
+ <img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1"><p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://github.com/agodoi/template">MODELO GIT FIAP</a> por <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://fiap.com.br">Fiap</a> está licenciado sobre <a href="http://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">Attribution 4.0 International</a>.</p>
