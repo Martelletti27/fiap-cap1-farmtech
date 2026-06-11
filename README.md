@@ -90,7 +90,7 @@ Cada fase tem **README próprio** com resumo, estrutura e a seção **Como execu
 | **4** | Machine Learning: previsão de umidade e dashboard Streamlit | [Fase 4/README.md](Fase%204/README.md) |
 | **5** | Previsão de rendimento (notebook) e notas de cloud (AWS) | [Fase 5 (visão geral)](Fase%205/README.md) · [P1](Fase%205/Parte%201/README.md) · [P2](Fase%205/Parte%202/README.md) |
 | **6** | Visão computacional: detecção de objetos (YOLO), dataset *maquinário* / *animais* | [Fase 6 (visão geral)](Fase%206/README.md) · [P1](Fase%206/Parte%201/README.md) · [P2](Fase%206/Parte%202/README.md) |
-| **7** | Dashboard integrada (Fases 1–6) com alertas via AWS SNS | [Fase 7/README.md](Fase%207/README.md) |
+| **7** | Dashboard integrada (Fases 1–6) com alertas via AWS SNS | [Fase 7/README.md](Fase%207/README.md) · [▶ Vídeo](https://youtu.be/f-5py7tkdbU) |
 
 ___________________________________________________________________________
 🧾 Licença

@@ -4,8 +4,7 @@ Dashboard integrada que reúne em um único projeto Python todos os serviços de
 
 ## Vídeo demonstrativo
 
-<!-- Após gravar, substitua o link abaixo -->
-> Link do YouTube (não listado): _a preencher_
+[![Assistir no YouTube](https://img.shields.io/badge/YouTube-Assistir-red?style=flat&logo=youtube)](https://youtu.be/f-5py7tkdbU)
 
 ## Como executar o código
 
