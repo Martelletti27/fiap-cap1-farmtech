@@ -68,6 +68,13 @@ fiap_cursotiao_pbl/
 │   ├── Parte 2/
 │   └── README.md
 │
+├── Fase 7/                          # Consolidação: dashboard integrada + AWS SNS
+│   ├── app.py                       # Dashboard Streamlit unificada (abas por fase)
+│   ├── run.py                       # Atalho de execução
+│   ├── config.py                    # Configurações e caminhos
+│   ├── services/                    # Serviços de cada fase (1, 3, 6, AWS)
+│   └── README.md
+│
 └── README.md                        # Este arquivo
 ```
 
@@ -83,6 +90,7 @@ Cada fase tem **README próprio** com resumo, estrutura e a seção **Como execu
 | **4** | Machine Learning: previsão de umidade e dashboard Streamlit | [Fase 4/README.md](Fase%204/README.md) |
 | **5** | Previsão de rendimento (notebook) e notas de cloud (AWS) | [Fase 5 (visão geral)](Fase%205/README.md) · [P1](Fase%205/Parte%201/README.md) · [P2](Fase%205/Parte%202/README.md) |
 | **6** | Visão computacional: detecção de objetos (YOLO), dataset *maquinário* / *animais* | [Fase 6 (visão geral)](Fase%206/README.md) · [P1](Fase%206/Parte%201/README.md) · [P2](Fase%206/Parte%202/README.md) |
+| **7** | Dashboard integrada (Fases 1–6) com alertas via AWS SNS | [Fase 7/README.md](Fase%207/README.md) |
 
 ___________________________________________________________________________
 🧾 Licença

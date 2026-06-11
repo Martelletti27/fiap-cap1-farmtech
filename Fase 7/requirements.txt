@@ -1,0 +1,11 @@
+streamlit
+pandas
+numpy
+matplotlib
+plotly
+scikit-learn
+boto3
+python-dotenv
+Pillow
+requests
+ultralytics
