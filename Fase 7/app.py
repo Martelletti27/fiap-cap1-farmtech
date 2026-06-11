@@ -266,7 +266,7 @@ with abas[3]:
         if st.button("Prever umidade", key="btn_prever_f4"):
             try:
                 prev = f4.prever_umidade(
-                    reg, st.session_state.f4_loader, df_ml,
+                    reg, df_ml,
                     st.session_state.f4_cultura,
                     temp_in, chuva_in, umid_ar_in, int(hora_in)
                 )
